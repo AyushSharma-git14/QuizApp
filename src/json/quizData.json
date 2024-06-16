@@ -1,0 +1,52 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "options": ["Shakespeare", "Dickens", "Hemingway", "Tolstoy"],
+      "answer": "Shakespeare"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["Shakespeare", "Dickens", "Hemingway", "Tolstoy"],
+        "answer": "Shakespeare"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["Shakespeare", "Dickens", "Hemingway", "Tolstoy"],
+        "answer": "Shakespeare"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["Shakespeare", "Dickens", "Hemingway", "Tolstoy"],
+        "answer": "Shakespeare"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["Shakespeare", "Dickens", "Hemingway", "Tolstoy"],
+        "answer": "Shakespeare"
+      }
+  ]
